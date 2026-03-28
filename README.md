@@ -1,4 +1,4 @@
-# Tech Infra Stack
+# Orchestra Stack
 
 ## Table of Contents
 
