@@ -20,7 +20,7 @@ The repository is made up of the following folders:
 
 
 ```
-tech-infra-stack/               ## Root directory for technology infrastructure stack
+orchestra-stack/               ## Root directory for technology infrastructure stack
   - docker-compose/             ## Contains Docker Compose orchestration files for local deployment
     - database/                 ## Contains Docker Compose files applicable for specific database
     - queue/                    ## Contains Docker Compose files applicable for specific queue
